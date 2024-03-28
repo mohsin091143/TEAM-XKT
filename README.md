@@ -7,6 +7,10 @@ VERSION:- 0.1
 
 NEW USER RUN FULL COMMAND
 rm -rf MIND-PRO
+
 git clone --depth=1 https://github.com/mohsin091143/TEAM-XKT.git
+
 cd TEAM-XKT
+
 python XKT.py
+
